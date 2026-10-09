@@ -2,7 +2,7 @@
 
 I build LLM systems the way production teams actually need them: evaluated, cost-bounded, and observable — not single-file demos. Every project below ships with real infrastructure — FastAPI, LangChain/LangGraph, PostgreSQL/Qdrant, Redis, Docker — and a documented reason behind every architecture decision.
 
-📫 [tarunsinghchauhan088@gmail.com](mailto:tarunsinghchauhan088@gmail.com) · 🔗 [Portfolio](https://tarun-app.vercel.app) · [LinkedIn](https://linkedin.com/in/tarunchauhanml) · [GitHub](https://github.com/TarunSinghChauhan)
+📫 [tarunsinghchauhan088@gmail.com](mailto:tarunsinghchauhan088@gmail.com) · 🔗 [Portfolio](https://tarunchauhan.vercel.app/) · [LinkedIn](https://linkedin.com/in/tarunchauhanml) · [GitHub](https://github.com/TarunSinghChauhan)
 
 ---
 
